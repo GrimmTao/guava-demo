@@ -12,11 +12,6 @@ import com.google.common.base.CharMatcher;
 import com.google.common.base.Charsets;
 import com.google.common.base.Strings;
 
-/***************************************
- * @author:Alex Wang
- * @Date:2017/10/7
- * @QQ: 532500648
- ***************************************/
 public class StringsTest {
 
 	@Test
